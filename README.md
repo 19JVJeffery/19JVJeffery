@@ -6,11 +6,11 @@ I'm a student developer from the UK with a passion for building polished, native
 
 ## 🎵 What I'm Working On
 
-- 🎚️ **[CuePlayer-macOS](https://github.com/19JVJeffery/CuePlayer-macOS)** — A native macOS show cue player built with Swift & SwiftUI. Multi-track playback, fade in/out, cart slots, waveform visualisation, and more.
-- 🎛️ **[CueLive](https://github.com/19JVJeffery/CueLive)** — Live performance audio tooling.
-- 📻 **[nanOS](https://github.com/19JVJeffery/nanOS)** — A Liquid Glass–inspired UI theme concept reimagining the iPod nano 7th gen in the iOS 26 era.
-- 🎧 **[Tidal Desktop App for macOS](https://github.com/19JVJeffery/Tidal-Desktop-App-macOS)** — A native macOS wrapper for Tidal.
-- 🎶 **[Parametric EQ Visualiser](https://github.com/19JVJeffery/Parametric-EQ-Visualiser)** — Interactive EQ curve visualisation tool.
+- 🎚️ **[CuePlayer-macOS](https://github.com/19JVJeffery/CuePlayer-macOS)** - A native macOS show cue player built with Swift & SwiftUI. Multi-track playback, fade in/out, cart slots, waveform visualisation, and more.
+- 🎛️ **[CueLive](https://github.com/19JVJeffery/CueLive)** - Live performance audio tooling.
+- 📻 **[nanOS](https://github.com/19JVJeffery/nanOS)** - A Liquid Glass–inspired UI theme concept reimagining the iPod nano 7th gen in the iOS 26 era.
+- 🎧 **[Tidal Desktop App for macOS](https://github.com/19JVJeffery/Tidal-Desktop-App-macOS)** - A native macOS wrapper for Tidal.
+- 🎶 **[Parametric EQ Visualiser](https://github.com/19JVJeffery/Parametric-EQ-Visualiser)** - Interactive EQ curve visualisation tool.
 
 ---
 
@@ -30,17 +30,17 @@ I'm a student developer from the UK with a passion for building polished, native
 
 I have a soft spot for the iPod nano and love pushing what's possible on it:
 
-- 🎨 **[nanOS](https://github.com/19JVJeffery/nanOS)** — Liquid Glass UI theme for the nano 7th gen
-- 🔧 **[iPod nano Themer GUI](https://github.com/19JVJeffery/iPod-nano-Themer-GUI)** — GUI tool for applying custom themes
-- 💾 **[Custom Firmware (nano 6 & 7)](https://github.com/19JVJeffery/Custom-Firmware-iPod-nano-6-7)** — Custom firmware explorations
+- 🎨 **[nanOS](https://github.com/19JVJeffery/nanOS)** - Liquid Glass UI theme for the nano 7th gen
+- 🔧 **[iPod nano Themer GUI](https://github.com/19JVJeffery/iPod-nano-Themer-GUI)** - GUI tool for applying custom themes
+- 💾 **[Custom Firmware (nano 6 & 7)](https://github.com/19JVJeffery/Custom-Firmware-iPod-nano-6-7)** - Custom firmware explorations
 
 ---
 
 ## 🌐 Web Projects
 
-- 📅 **[EventEase](https://github.com/19JVJeffery/EventEase-Computer-Science-NEA)** — A PHP-based event booking system built as my Computer Science NEA
-- 🎓 **[Uckfield College Dock](https://github.com/19JVJeffery/uckfieldcollegedock.github.io)** — A web app built for my college
-- 🌍 **[Personal Website](https://github.com/19JVJeffery/jamesjeffery.github.io)** — My personal portfolio site
+- 📅 **[EventEase](https://github.com/19JVJeffery/EventEase-Computer-Science-NEA)** - A PHP-based event booking system built as my Computer Science NEA
+- 🎓 **[Uckfield College Dock](https://github.com/19JVJeffery/uckfieldcollegedock.github.io)** - A web app built for my college
+- 🌍 **[Personal Website](https://github.com/19JVJeffery/jamesjeffery.github.io)** - My personal portfolio site
 
 ---
 
