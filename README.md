@@ -39,7 +39,6 @@ I have a soft spot for the iPod nano and love pushing what's possible on it:
 ## 🌐 Web Projects
 
 - 📅 **[EventEase](https://github.com/19JVJeffery/EventEase-Computer-Science-NEA)** - A PHP-based event booking system built as my Computer Science NEA
-- 🎓 **[Uckfield College Dock](https://github.com/19JVJeffery/uckfieldcollegedock.github.io)** - A web app built for my college
 - 🌍 **[Personal Website](https://github.com/19JVJeffery/jamesjeffery.github.io)** - My personal portfolio site
 
 ---
